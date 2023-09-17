@@ -1,5 +1,5 @@
 # TutorialMultiplePHP
-TUTORIAL BAGAIMANA CARA INSTALASI DAN MENJALANKAN 2 VERSI PHP 8.2 DAN VERSI DIBAWAHNYA DI XAMPP
+TUTORIAL BAGAIMANA CARA INSTALASI DAN MENJALANKAN 2 VERSI PHP 8.2 DAN VERSI DIBAWAHNYA DI XAMPP : https://medium.com/p/a188c6c92b3d
 
 Kebutuhan program yang beragam terkadang mengharuskan seorang pengembang atau programmer untuk menjalankan berbagai versi PHP (Hypertext Preprocessor) dalam satu instalasi XAMPP.
 
